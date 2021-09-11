@@ -1,5 +1,6 @@
-*~
-*.o
+.stack-work/
+*.log
+core
 *.hi
-dist/
-cabal-dev/
+*.o
+*~
